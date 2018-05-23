@@ -19,7 +19,7 @@ import java.util.UUID;
  * Created by Administrator on 2018/5/18.
  */
 @Service
-public class ConsultServiceImpl implements ConsultService {
+public class ConsultServiceImpl1 implements ConsultService {
 	
 	@Autowired
 	private ConsultDTOMapper consultDTOMapper;
